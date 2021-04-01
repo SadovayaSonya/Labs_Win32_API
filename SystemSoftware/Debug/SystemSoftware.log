@@ -1,0 +1,6 @@
+﻿  PR1_Sadovaya.cpp
+D:\SystemSoftware\PR1_Sadovaya.cpp(173,9): warning C4101: hdc: неиспользованная локальная переменная
+D:\SystemSoftware\PR1_Sadovaya.cpp(172,17): warning C4101: ps: неиспользованная локальная переменная
+D:\SystemSoftware\PR1_Sadovaya.cpp(195,9): warning C4101: hdc: неиспользованная локальная переменная
+D:\SystemSoftware\PR1_Sadovaya.cpp(194,17): warning C4101: ps: неиспользованная локальная переменная
+  SystemSoftware.vcxproj -> D:\SystemSoftware\Debug\SystemSoftware.exe

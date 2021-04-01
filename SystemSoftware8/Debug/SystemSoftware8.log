@@ -1,0 +1,6 @@
+﻿  Threads.cpp
+D:\SystemSoftware8\Threads.cpp(9,1): warning C4326: возвращаемый тип "wmain" должен быть "int", а не "void"
+D:\SystemSoftware8\Threads.cpp(90,25): warning C4473: "wprintf": передано недостаточно аргументов для строки формата
+D:\SystemSoftware8\Threads.cpp(90,25): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+D:\SystemSoftware8\Threads.cpp(90,25): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "% d"
+  SystemSoftware8.vcxproj -> D:\SystemSoftware8\Debug\SystemSoftware8.exe

@@ -1,0 +1,8 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  ipc.cpp
+  console.cpp
+  Создание кода...
+console.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  IPC.vcxproj -> D:\SystemSoftware9\Debug\IPC.exe

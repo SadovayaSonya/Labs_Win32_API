@@ -1,0 +1,8 @@
+﻿D:\VisualStudioCommunity\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: Свойству "IntermediateOutputPath" в первый раз присваивается значение, но оно уже было использовано в "D:\VisualStudioCommunity\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+D:\VisualStudioCommunity\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(29,5): warning MSB4211: Свойству "DebugType" в первый раз присваивается значение, но оно уже было использовано в "D:\VisualStudioCommunity\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (28,5)".
+D:\VisualStudioCommunity\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(370,5): warning MSB4211: Свойству "CleanFile" в первый раз присваивается значение, но оно уже было использовано в "D:\VisualStudioCommunity\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  ipc.cpp
+  console.cpp
+  Создание кода...
+  IPC.vcxproj -> D:\SystemSoftware9\IPC\Debug\IPC.exe

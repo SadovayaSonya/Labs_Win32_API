@@ -1,0 +1,5 @@
+﻿  SystemSoftware3.cpp
+D:\SystemSoftware3\SystemSoftware3.cpp(6,1): warning C4005: IDM_EXIT: изменение макроопределения
+D:\SystemSoftware3\resource.h(11): message : см. предыдущее определение "IDM_EXIT"
+D:\SystemSoftware3\SystemSoftware3.cpp(222,23): warning C4302: приведение типов: усечение из "CHAR *" к "BYTE"
+  SystemSoftware3.vcxproj -> D:\SystemSoftware3\Debug\SystemSoftware3.exe

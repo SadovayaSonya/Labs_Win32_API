@@ -1,0 +1,3 @@
+﻿  virtual.cpp
+D:\SystemSoftware7\virtual.cpp(151,11): warning C4101: chBuff: неиспользованная локальная переменная
+  SystemSoftware7.vcxproj -> D:\SystemSoftware7\Debug\SystemSoftware7.exe
